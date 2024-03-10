@@ -5,4 +5,4 @@
 <h2>💾 Cybersecurity Project </h2>
 
 - [LAB1 Finding Vulnerabilities on a target machine](https://github.com/supakitboon/Lab-1.git)  
-- [Botium-Toys-Risk-Assessmen](https://github.com/supakitboon/Botium-Toys-Risk-Assessment.git)
+- [Botium-Toys-Risk-Assessment](https://github.com/supakitboon/Botium-Toys-Risk-Assessment)
