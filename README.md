@@ -9,3 +9,5 @@
 - [NIST Cybersecurity Framework](https://github.com/supakitboon/NIST-Cybersecurity-Framework.git)
 
 <h2>💾 Data Mining Project </h2>
+
+- [Project1](https://github.com/supakitboon/Project1.git)
