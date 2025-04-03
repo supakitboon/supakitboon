@@ -10,7 +10,7 @@ I am interested in opportunities that will help me grow into a data scientist or
 
 <h2>🌎Social </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/supakitboonsongprasert)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supakitboonsongprasert)
 
 ## 🛠️ Tech Stack 
 
