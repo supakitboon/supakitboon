@@ -1,9 +1,10 @@
+
 <h1>😉 About Me </h1>
 Hi everyone my name is Supakit. Nice to meet you and welcome to my github Hehe.
 
 I am a graduate student in Information Systems at UMBC, with an emphasis in Data Science, I enjoy extracting meaningful insights from challenging datasets and driving effective decisions through value extraction. My academic background coupled with hands-on data analysis and machine learning experience has endowed me with a firm foundation in statistical modeling, predictive analytics, and programming in Python and R.
 
-Having worked as a data analyst in a Renewable Energy and Energy Efficiency Research Team, I have gained a knack for converting data into actionable strategy. My skills vary from Python, R, SQL, and passing through to Visualizations with Tableau. Of all things, what interests me most are the use of data science in solving some of the real-world challenges: business process optimization to societal challenges around sustainability and cybersecurity.
+Having worked on advanced AI and data science research projects across domains like supply chain optimization and narrative intelligence, I have developed a strong ability to turn complex data into impactful, real-world solutions. My expertise spans Python, R, SQL, PL/SQL, and modern tools such as Oracle Database, ONNX, and Tableau. I’m particularly drawn to using vector embeddings, statistical modeling, and deep learning techniques to solve high-impact problems — from improving decision-making in logistics to analyzing the coherence of story structures.
 
 I am interested in opportunities that will help me grow into a data scientist or analyst, where my contribution to analytics, technical knowledge, and problem-solving abilities will make a positive difference to any organization or community. I work independently or as part of a team, working with good speed under the pressure of deadlines, in dynamic environments of continuous learning and innovation.
 
@@ -52,6 +53,8 @@ I am interested in opportunities that will help me grow into a data scientist or
 - [Google AI Essensial](https://www.coursera.org/account/accomplishments/verify/ZTUH9O8W1A12)
 - [Social/Behavioral Research Course](https://www.citiprogram.org/verify/?wc68206c5-155d-449b-935d-9168db4032fe-66105481)
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/3S2KPZ6RQU5B)
+
+
 
 
 
