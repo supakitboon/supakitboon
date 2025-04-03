@@ -45,7 +45,7 @@ I am interested in opportunities that will help me grow into a data scientist or
 - [NSF-HDR-MLChallenge](https://github.com/supakitboon/NSF-HDR-MLChallenge)
 
 
-<h2>📃 Certification:</h2>
+<h2>📃 Certification</h2>
 
 - [AWS Cloud Practitioner](https://www.credly.com/badges/df8c1424-eaea-45b5-9524-8d4e5ee8f15f/public_url)
 - [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/e00fb1df-1b84-46e7-8b95-8b6860800eeb/linked_in_profile)
