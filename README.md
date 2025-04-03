@@ -1,6 +1,7 @@
 <h1>😉 About Me </h1>
-Hi everyone my name is Supakit. Nice to meet you and welcome to my github 
-Now I am a graduate student in Information Systems at UMBC, with an emphasis in Data Science, I enjoy extracting meaningful insights from challenging datasets and driving effective decisions through value extraction. My academic background coupled with hands-on data analysis and machine learning experience has endowed me with a firm foundation in statistical modeling, predictive analytics, and programming in Python and R.
+Hi everyone my name is Supakit. Nice to meet you and welcome to my github Hehe.
+
+I am a graduate student in Information Systems at UMBC, with an emphasis in Data Science, I enjoy extracting meaningful insights from challenging datasets and driving effective decisions through value extraction. My academic background coupled with hands-on data analysis and machine learning experience has endowed me with a firm foundation in statistical modeling, predictive analytics, and programming in Python and R.
 
 Having worked as a data analyst in a Renewable Energy and Energy Efficiency Research Team, I have gained a knack for converting data into actionable strategy. My skills vary from Python, R, SQL, and passing through to Visualizations with Tableau. Of all things, what interests me most are the use of data science in solving some of the real-world challenges: business process optimization to societal challenges around sustainability and cybersecurity.
 
@@ -10,7 +11,7 @@ I am interested in opportunities that will help me grow into a data scientist or
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/supakitboonsongprasert)
 
-## 🛠️ Skills
+## 🛠️ Tech Stack 
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -38,8 +39,10 @@ I am interested in opportunities that will help me grow into a data scientist or
 
 <h2>💾 Project </h2>
 
+- [Story Coherence Project](https://github.com/supakitboon/StoryCoherence.git) 
+- [Oracle23AI Database](https://github.com/AswinKumar1/Vector_database_Oracle_23ai.git)
 - [NSF-HDR-MLChallenge](https://github.com/supakitboon/NSF-HDR-MLChallenge)
-- [Oracle23AI](https://github.com/AswinKumar1/Vector_database_Oracle_23ai.git)
+
 
 <h2>📃 Certification:</h2>
 
