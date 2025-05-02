@@ -39,7 +39,7 @@ I am interested in opportunities that will help me grow into a data scientist or
 - [Story Coherence Project](https://github.com/supakitboon/StoryCoherence.git) 
 - [Oracle23AI Database](https://github.com/AswinKumar1/Vector_database_Oracle_23ai.git)
 - [NSF-HDR-MLChallenge](https://github.com/supakitboon/NSF-HDR-MLChallenge)
-
+- [CodeWiz](https://github.com/supakitboon/CodeWiz.git)
 
 <h2>📃 Certification</h2>
 
