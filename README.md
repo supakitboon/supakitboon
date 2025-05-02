@@ -1,12 +1,12 @@
 
 <h1>😉 About Me </h1>
-Hi everyone my name is Supakit. Nice to meet you and welcome to my github Hehe.
+Hi everyone, my name is Supakit. Nice to meet you and welcome to my GitHub, Hehe.
 
-I am a graduate student in Information Systems at UMBC, with an emphasis in Data Science, I enjoy extracting meaningful insights from challenging datasets and driving effective decisions through value extraction. My academic background coupled with hands-on data analysis and machine learning experience has endowed me with a firm foundation in statistical modeling, predictive analytics, and programming in Python and R.
+I am a graduate student in Information Systems at UMBC, with an emphasis in Data Science. I enjoy extracting meaningful insights from challenging datasets and driving effective decisions through value extraction. My academic background, coupled with hands-on data analysis and machine learning experience, has endowed me with a firm foundation in statistical modeling, predictive analytics, and programming in Python and R.
 
 Having worked on advanced AI and data science research projects across domains like supply chain optimization and narrative intelligence, I have developed a strong ability to turn complex data into impactful, real-world solutions. My expertise spans Python, R, SQL, PL/SQL, and modern tools such as Oracle Database, ONNX, and Tableau. I’m particularly drawn to using vector embeddings, statistical modeling, and deep learning techniques to solve high-impact problems — from improving decision-making in logistics to analyzing the coherence of story structures.
 
-I am interested in opportunities that will help me grow into a data scientist or analyst, where my contribution to analytics, technical knowledge, and problem-solving abilities will make a positive difference to any organization or community. I work independently or as part of a team, working with good speed under the pressure of deadlines, in dynamic environments of continuous learning and innovation.
+I am interested in opportunities that will help me grow into a data scientist, analyst, or AI/ML engineer, where my contribution to analytics, technical knowledge, and problem-solving abilities will make a positive difference to any organization or community. I work independently or as part of a team, working with good speed under the pressure of deadlines, in dynamic environments of continuous learning and innovation.
 
 <h2>🌎Social </h2>
 
