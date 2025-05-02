@@ -50,8 +50,6 @@ I am interested in opportunities that will help me grow into a data scientist, a
 - [Social/Behavioral Research Course](https://www.citiprogram.org/verify/?wc68206c5-155d-449b-935d-9168db4032fe-66105481)
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/3S2KPZ6RQU5B)
 
-## 📙Study Note 
-[Click Here to Access my study notes](https://github.com/supakitboon/Study-note.git)
 
 
 
