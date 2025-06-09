@@ -40,7 +40,8 @@ I am interested in opportunities that will help me grow into a data scientist, a
 - [Oracle23AI Database](https://github.com/AswinKumar1/Vector_database_Oracle_23ai.git)
 - [NSF-HDR-MLChallenge](https://github.com/supakitboon/NSF-HDR-MLChallenge)
 - [CodeWiz](https://github.com/supakitboon/CodeWiz.git)
-- [AI Agent](https://github.com/supakitboon/AI_Agent.git) 
+- [AI Agent](https://github.com/supakitboon/AI_Agent.git)
+- [Bird-CLEF-2025](https://github.com/supakitboon/Kaggle-Bronze-winner-Bird-CLEF-2025.git)
 
 <h2>📃 Certification</h2>
 
