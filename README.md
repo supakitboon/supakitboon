@@ -7,6 +7,8 @@ I am a graduate student in Information Systems at UMBC, with an emphasis in Data
 Having worked on advanced AI and data science research projects across domains like supply chain optimization and narrative intelligence, I have developed a strong ability to turn complex data into impactful, real-world solutions. My expertise spans Python, R, SQL, PL/SQL, and modern tools such as Oracle Database, ONNX, and Tableau. I’m particularly drawn to using vector embeddings, statistical modeling, and deep learning techniques to solve high-impact problems — from improving decision-making in logistics to analyzing the coherence of story structures.
 
 I am interested in opportunities that will help me grow into a data scientist, analyst, or AI/ML engineer, where my contribution to analytics, technical knowledge, and problem-solving abilities will make a positive difference to any organization or community. I work independently or as part of a team, working with good speed under the pressure of deadlines, in dynamic environments of continuous learning and innovation.
+<h1>Hobby </h1>
+- Pentest
 
 <h2>🌎Social </h2>
 
