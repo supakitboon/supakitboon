@@ -47,12 +47,14 @@ I am interested in opportunities that will help me grow into a data scientist, a
 
 <h2>📃 Certification</h2>
 
+- [CompTIA Security+](https://www.credly.com/badges/cefbaa9b-911f-4c11-952c-59b9a4e481f7/linked_in_profile)
 - [AWS Cloud Practitioner](https://www.credly.com/badges/df8c1424-eaea-45b5-9524-8d4e5ee8f15f/public_url)
 - [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/e00fb1df-1b84-46e7-8b95-8b6860800eeb/linked_in_profile)
 - [Standford/Deeplearning.AI Machine learning specialization](https://www.coursera.org/account/accomplishments/specialization/FCG2OG0KX1IV)
 - [Google AI Essensial](https://www.coursera.org/account/accomplishments/verify/ZTUH9O8W1A12)
 - [Social/Behavioral Research Course](https://www.citiprogram.org/verify/?wc68206c5-155d-449b-935d-9168db4032fe-66105481)
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/3S2KPZ6RQU5B)
+
 
 
 
