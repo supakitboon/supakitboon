@@ -38,11 +38,11 @@ TryHackMe | Hack the Box |TCM| AI Pentest
 
 <h2>💾 Project </h2>
 
+- [StrandsAgent](https://github.com/supakitboon/Multi-Agent.git)
+- [CodeWiz](https://github.com/supakitboon/CodeWiz.git)
 - [Story Coherence Project](https://github.com/supakitboon/StoryCoherence.git) 
 - [Oracle23AI Database](https://github.com/AswinKumar1/Vector_database_Oracle_23ai.git)
 - [NSF-HDR-MLChallenge](https://github.com/supakitboon/NSF-HDR-MLChallenge)
-- [CodeWiz](https://github.com/supakitboon/CodeWiz.git)
-- [AI Agent](https://github.com/supakitboon/Multi-Agent.git)
 - [Bird-CLEF-2025](https://github.com/supakitboon/Kaggle-Bronze-winner-Bird-CLEF-2025.git)
 
 <h2>📃 Certification</h2>
