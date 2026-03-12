@@ -6,7 +6,7 @@ I am a PhD student in Information Systems at UMBC, fully funded, with a focus on
 
 My technical toolkit includes Python, R, SQL, PL/SQL, Oracle Database 23ai, Tableau, and AWS, backed by AWS Cloud Practitioner and CompTIA Security+ certifications. I enjoy bridging cutting-edge AI research with practical, scalable solutions. Outside of research, I have a deep interest in cybersecurity, not just as a hobby, but as a necessity. Building and deploying AI systems in the real world requires a strong security mindset, and I believe understanding cybersecurity is essential for any AI engineer who wants to build systems that are not only intelligent, but also safe and trustworthy.
 
-I thrive both independently and in collaborative teams, and I'm actively seeking opportunities in data science, AI/ML engineering, or applied research where I can make a meaningful difference.
+I thrive both independently and in collaborative teams, and I'm actively seeking opportunities in data science, AI/ML engineering, or applied research, as well as cybersecurity roles such as SOC Analyst or Penetration Tester, where I can make a meaningful difference.
 <h2>Hobby </h2>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/5473731137.png" alt="TryHackMe Badge" />
