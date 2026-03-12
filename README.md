@@ -41,6 +41,7 @@ THM | Hack the Box | TCM | AI Pentest
 
 <h2>💾 Project </h2>
 
+- [Data-Story-Reading-App](https://github.com/supakitboon/Data-Story-Reading-App.git)
 - [StrandsAgent](https://github.com/supakitboon/Multi-Agent.git)
 - [CodeWiz](https://github.com/supakitboon/CodeWiz.git)
 - [Story Coherence Project](https://github.com/supakitboon/StoryCoherence.git) 
