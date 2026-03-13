@@ -44,7 +44,6 @@ THM | Hack the Box | TCM | AI Pentest
 - [Data-Story-Reading-App](https://github.com/supakitboon/Data-Story-Reading-App.git)
 - [StrandsAgent](https://github.com/supakitboon/Multi-Agent.git)
 - [CodeWiz](https://github.com/supakitboon/CodeWiz.git)
-- [Story Coherence Project](https://github.com/supakitboon/StoryCoherence.git) 
 - [Oracle23AI Database](https://github.com/AswinKumar1/Vector_database_Oracle_23ai.git)
 - [NSF-HDR-MLChallenge](https://github.com/supakitboon/NSF-HDR-MLChallenge)
 - [Bird-CLEF-2025](https://github.com/supakitboon/Kaggle-Bronze-winner-Bird-CLEF-2025.git)
