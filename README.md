@@ -8,11 +8,8 @@ My technical toolkit includes Python, R, SQL, PL/SQL, Oracle Database 23ai, Tabl
 
 I thrive both independently and in collaborative teams, and I'm actively seeking opportunities in data science, AI/ML engineering, or applied research, as well as cybersecurity roles such as SOC Analyst or Penetration Tester, where I can make a meaningful difference.
 <h2>Hobby </h2>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/5473731137.png" alt="TryHackMe Badge" />
-
 THM | Hack the Box | TCM | AI Pentest    
-[Pentest-Note](https://github.com/supakitboon/Pentest-notes.git)
+
 
 <h2>🌎Social </h2>
 
