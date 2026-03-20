@@ -10,6 +10,9 @@ I thrive both independently and in collaborative teams, and I'm actively seeking
 <h2>Hobby </h2>
 THM | Hack the Box | TCM | AI Pentest    
 
+[Pentest Note](https://www.notion.so/Pentest-Note-2c49a8dd939e8037a775c3d7c6746c8a?source=copy_link)
+
+
 
 <h2>🌎Social </h2>
 
