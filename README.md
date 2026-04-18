@@ -15,7 +15,6 @@ THM | Hack the Box | TCM | AI Pentest
 
 ### 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supakitboonsongprasert) 
-**[Check out my Pentest Notes](https://www.notion.so/Pentest-Note-2c49a8dd939e8037a775c3d7c6746c8a)**
 ## 🛠️ Tech Stack 
 
 
