@@ -10,14 +10,12 @@ I thrive both independently and in collaborative teams, and I'm actively seeking
 <h2>Hobby </h2>
 THM | Hack the Box | TCM | AI Pentest    
 
-[Pentest Note](https://www.notion.so/Pentest-Note-2c49a8dd939e8037a775c3d7c6746c8a?source=copy_link)
+**[Check out my Pentest Notes](https://www.notion.so/Pentest-Note-2c49a8dd939e8037a775c3d7c6746c8a)**
 
 
-
-<h2>🌎Social </h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supakitboonsongprasert)
-
+### 🌎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supakitboonsongprasert) 
+**[Check out my Pentest Notes](https://www.notion.so/Pentest-Note-2c49a8dd939e8037a775c3d7c6746c8a)**
 ## 🛠️ Tech Stack 
 
 
@@ -62,5 +60,13 @@ THM | Hack the Box | TCM | AI Pentest
 
 
 
+### 📊 GitHub Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supakitboon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supakitboon&layout=compact&theme=dracula" />
+</div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=supakitboon&label=Profile%20views&color=0e75b6&style=flat" alt="supakitboon" />
+</p>
 
