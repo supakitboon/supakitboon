@@ -60,11 +60,5 @@ THM | Hack the Box | TCM | AI Pentest
 
 
 ### 📊 GitHub Activity
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supakitboon&layout=compact&theme=dracula" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supakitboon&label=Profile%20views&color=0e75b6&style=flat" alt="supakitboon" />
-</p>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supakitboon&layout=compact&theme=dracula" />
+<img src="https://komarev.com/ghpvc/?username=supakitboon&label=Profile%20views&color=0e75b6&style=flat" alt="supakitboon" />
