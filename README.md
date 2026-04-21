@@ -18,7 +18,7 @@
 </tr>
 </table>
 
-### `AI/ML Engineer` ·  `AI Researcher` · `PhD@UMBC` ·
+### `AI/ML Engineer` ·  `AI Researcher` · `PhD@UMBC` 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supakitboonsongprasert)
 [![Profile Views](https://komarev.com/ghpvc/?username=supakitboon&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/supakitboon)
