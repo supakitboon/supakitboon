@@ -1,3 +1,4 @@
+
 <div align="center">
 <table border="0">
 <tr>
@@ -18,7 +19,9 @@
 </tr>
 </table>
 
-### `AI/ML Engineer` ·  `AI Researcher` · `PhD@UMBC` 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00bfff&center=true&multiline=true&width=600&height=80&lines=AI+Engineer+%7C+AI+Researcher+%7C+PhD+Student+%40+UMBC" alt="Typing SVG" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supakitboonsongprasert)
 [![Profile Views](https://komarev.com/ghpvc/?username=supakitboon&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/supakitboon)
@@ -126,8 +129,6 @@ I'm **Supakit**, a **fully-funded PhD student in Information Systems at UMBC**, 
 
 ## 📊 GitHub Activity
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supakitboon&layout=compact&theme=tokyonight&hide_border=true" />
-
-
 
 ---
 
