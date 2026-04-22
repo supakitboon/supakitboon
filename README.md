@@ -87,6 +87,7 @@ I'm **Supakit**, a **fully-funded PhD student in Information Systems at UMBC**, 
 
 | Project | Description |
 |---|---|
+| [📊 Fact-Check AI Agent](https://github.com/supakitboon/Fact-Check-AI-Agent.git) | Multi-agent pipeline for fact-checking student chart narratives |
 | [🗣️ Data-Story-Reading-App](https://github.com/supakitboon/Data-Story-Reading-App.git) | AI-powered app for reading & analyzing data narratives |
 | [🤖 StrandsAgent](https://github.com/supakitboon/Multi-Agent.git) | Multi-agent AI system built with AWS Strands SDK |
 | [💻 CodeWiz](https://github.com/supakitboon/CodeWiz.git) | Intelligent coding assistant |
