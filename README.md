@@ -126,9 +126,25 @@ I'm **Supakit**, a **fully-funded PhD student in Information Systems at UMBC**, 
 </details>
 
 ---
-
 ## 📊 GitHub Activity
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supakitboon&layout=compact&theme=tokyonight&hide_border=true" />
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="30%" valign="middle">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supakitboon&layout=compact&theme=tokyonight&hide_border=true"/>
+      </td>
+      <td width="70%" valign="middle" align="center">
+        <b>🎭 Today's Mood</b><br/><br/>
+        <img src="https://media1.tenor.com/m/3-UjQHHYyJ0AAAAd/studio-ghibli.gif" width="30%" alt="chill"/>
+        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30%" alt="focused"/>
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30%" alt="coding"/>
+        <br/><br/>
+        <h3>Chill · Focused · Coding</h3>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -137,6 +153,7 @@ I'm **Supakit**, a **fully-funded PhD student in Information Systems at UMBC**, 
 *Let's build something intelligent and secure together.*
 
 </div>
+
 
 ## 🐍 Contribution Snake
  
