@@ -88,12 +88,14 @@ I'm **Supakit**, a **fully-funded PhD student in Information Systems at UMBC**, 
 | Project | Description |
 |---|---|
 | [📊 Fact-Check AI Agent](https://github.com/supakitboon/Fact-Check-AI-Agent.git) | Multi-agent pipeline for fact-checking student chart narratives |
+| [🌐 SelectLang(Chrome Extension)](https://github.com/supakitboon/SelectTranslate) | Browser extension: highlight any word to instantly translate, analyze, and build vocabulary |
 | [🗣️ Data-Story-Reading-App](https://github.com/supakitboon/Data-Story-Reading-App.git) | AI-powered app for reading & analyzing data narratives |
 | [🤖 StrandsAgent](https://github.com/supakitboon/Multi-Agent.git) | Multi-agent AI system built with AWS Strands SDK |
 | [💻 CodeWiz](https://github.com/supakitboon/CodeWiz.git) | Intelligent coding assistant |
 | [🗃️ Oracle23AI Database](https://github.com/AswinKumar1/Vector_database_Oracle_23ai.git) | Vector database implementation with Oracle 23ai |
 | [🔬 NSF-HDR-MLChallenge](https://github.com/supakitboon/NSF-HDR-MLChallenge) | NSF HDR machine learning research challenge |
 | [🐦 Bird-CLEF-2025 🥉](https://github.com/supakitboon/Kaggle-Bronze-winner-Bird-CLEF-2025.git) | Kaggle Bronze — endangered species audio classification |
+
 
 ---
 
