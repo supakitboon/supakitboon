@@ -151,11 +151,6 @@ I'm **Supakit**, a **fully-funded PhD student in Information Systems at UMBC**, 
 
 ---
 
-<div align="center">
-
-*Let's build something intelligent and secure together.*
-
-</div>
 
 
 ## 🐍 Contribution Snake
