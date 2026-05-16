@@ -36,7 +36,7 @@
 
 I'm **Supakit**, a **fully-funded PhD student in Information Systems at UMBC**, specializing in Artificial Intelligence. My work sits at the intersection of **narrative intelligence**, **supply chain optimization**, and **applied LLMs**.
 
-- 🔬 &nbsp;Research with **GPT-4.1, Gemini-2.5-pro, Claude Sonnet-4, DeepSeek R1**, vector embeddings, ONNX models & Kendall Tau
+- 🔬 &nbsp;Research with **GPT, Gemini, Claude, DeepSeek**, vector embeddings, ONNX models & Kendall Tau
 - 🥉 &nbsp;**Kaggle BirdCLEF+ 2025 Bronze Medal**  186th / 2,025 teams (NFNet & SEResNeXt audio classification for endangered species)
 - 🔐 &nbsp;Security-first mindset  cybersecurity isn't just a hobby, it's a **necessity** for trustworthy AI engineering
 - 🌐 &nbsp;Actively seeking roles in **Data Science · AI/ML Engineering · Applied Research · SOC Analysis · Penetration Testing**
