@@ -1,0 +1,58 @@
+name: generate arcade contribution graphs
+
+on:
+  schedule: # run automatically every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch: # allows manual triggering
+  push: # runs on every push to the main branch
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: generate contribution graph SVGs
+        # Pinned to the v5.3.2 release tag (same commit as main). Node 24.
+        uses: abozanona/pacman-contribution-graph@v5.3.2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Pac-Man only. Other games are left off this profile.
+          games: pacman
+          # Keep the month labels row above the grid.
+          hide_month_labels: "false"
+
+      - name: checkout output branch
+        uses: actions/checkout@v7.0.1
+        with:
+          ref: output
+          path: output-existing
+          persist-credentials: false
+
+      # The pages action publishes only build_dir. Copy files already on
+      # `output` (the snake SVGs) into dist so they stay and simply stop updating.
+      - name: keep files already on the output branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+          while IFS= read -r -d '' existing; do
+            name="$(basename "$existing")"
+            if [ ! -e "dist/$name" ]; then
+              cp -a "$existing" "dist/$name"
+            fi
+          done < <(find output-existing -mindepth 1 -maxdepth 1 ! -name '.git' -print0)
+
+      - name: push SVGs to the output branch
+        # v5 is the current release. v3.1.0 from the upstream sample is Node 16
+        # and no longer runs on GitHub-hosted runners. Inputs are unchanged.
+        uses: crazy-max/ghaction-github-pages@v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
